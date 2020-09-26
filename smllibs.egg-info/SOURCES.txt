@@ -1,0 +1,9 @@
+README.md
+setup.py
+smllibs/Seq.py
+smllibs/__init__.py
+smllibs.egg-info/PKG-INFO
+smllibs.egg-info/SOURCES.txt
+smllibs.egg-info/dependency_links.txt
+smllibs.egg-info/desktop.ini
+smllibs.egg-info/top_level.txt
